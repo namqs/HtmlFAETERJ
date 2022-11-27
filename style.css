@@ -1,0 +1,38 @@
+.headAndfooter {background-color: #e0aec9;
+    text-align: center;
+    display: flex;
+    padding:20px;
+    flex-wrap: wrap;}
+    
+nav li {display: inline;
+        margin: 0 0 0 0px;
+        padding: 50px;
+        font-size: 15px;}
+
+
+
+p {font-size: 20px;}
+
+.tamIMG {width:500px; height: 390px;}
+
+.flexbox {display:flex;
+          margin: 0 auto;
+          margin:30px;}
+
+.flexbox > div {margin:15px;}
+
+
+#aside {position: fixed;
+        top: 0;
+        left: 1150px;
+        bottom: 10;
+        width: 250px;
+        background: rgba(255, 255, 255, 0);
+        padding: 5px;}
+
+#form {background:#d89acb; width: 400px; position: relative; left: 400px;
+      }
+
+
+
+        
